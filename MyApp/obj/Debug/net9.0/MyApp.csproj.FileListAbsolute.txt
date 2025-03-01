@@ -1,0 +1,11 @@
+G:\My Drive\elevAlte - Microsoft Learning\xUnit_test\MyApp\obj\Debug\net9.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\elevAlte - Microsoft Learning\xUnit_test\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfoInputs.cache
+G:\My Drive\elevAlte - Microsoft Learning\xUnit_test\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfo.cs
+G:\My Drive\elevAlte - Microsoft Learning\xUnit_test\MyApp\obj\Debug\net9.0\MyApp.csproj.CoreCompileInputs.cache
+G:\My Drive\elevAlte - Microsoft Learning\xUnit_test\MyApp\bin\Debug\net9.0\MyApp.deps.json
+G:\My Drive\elevAlte - Microsoft Learning\xUnit_test\MyApp\bin\Debug\net9.0\MyApp.dll
+G:\My Drive\elevAlte - Microsoft Learning\xUnit_test\MyApp\bin\Debug\net9.0\MyApp.pdb
+G:\My Drive\elevAlte - Microsoft Learning\xUnit_test\MyApp\obj\Debug\net9.0\MyApp.dll
+G:\My Drive\elevAlte - Microsoft Learning\xUnit_test\MyApp\obj\Debug\net9.0\refint\MyApp.dll
+G:\My Drive\elevAlte - Microsoft Learning\xUnit_test\MyApp\obj\Debug\net9.0\MyApp.pdb
+G:\My Drive\elevAlte - Microsoft Learning\xUnit_test\MyApp\obj\Debug\net9.0\ref\MyApp.dll
