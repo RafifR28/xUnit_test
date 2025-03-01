@@ -1,8 +1,8 @@
 # xUnit Test Project
 
-Proyek ini adalah contoh sederhana untuk menunjukkan cara menulis dan menjalankan pengujian unit menggunakan xUnit di .NET. Proyek ini terdiri dari dua bagian utama: proyek utama (`MyApp`) dan proyek pengujian (`TestProject1_elevAlte`).
+Proyek ini adalah contoh sederhana untuk mendemonstrasikan cara menulis dan menjalankan unit test menggunakan xUnit di .NET. Proyek ini terdiri dari dua bagian utama: proyek utama (`MyApp`) dan proyek pengujian (`TestProject1_elevAlte`).
 
-**Catatan: Proyek ini hanya untuk tujuan belajar.**
+**Catatan: Proyek ini hanya untuk tujuan pembelajaran.**
 
 ## Struktur Proyek
 ```
@@ -16,4 +16,4 @@ xUnitTest/
 ```
 
 ## Pengujian Kode
-Proyek pengujian (TestProject1_elevAlte) berisi pengujian unit untuk metode `Add` dalam class `Calculator`
+Proyek pengujian (TestProject1_elevAlte) berisi unit test untuk metode `Add` di kelas `Calculator`.
