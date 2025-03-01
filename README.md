@@ -1,6 +1,6 @@
 # xUnit Test Project
 
-Proyek ini adalah contoh sederhana untuk mendemonstrasikan cara menulis dan menjalankan unit test menggunakan xUnit di .NET. Proyek ini terdiri dari dua bagian utama: proyek utama (`MyApp`) dan proyek pengujian (`TestProject1_elevAlte`).
+Proyek ini adalah contoh sederhana untuk pengujian dan menjalankan unit test menggunakan xUnit di .NET. Proyek ini terdiri dari dua bagian utama: proyek utama (`MyApp`) dan proyek pengujian (`TestProject1_elevAlte`).
 
 **Catatan: Proyek ini hanya untuk tujuan pembelajaran.**
 
